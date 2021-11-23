@@ -279,7 +279,7 @@ body .center a
 -------------------------------------------------------------*/
 #welcome
 {
-	background-color: #0e7b3e;
+	background-color: #f3f3f3;;
 }
 /* .userWelcome
 {
@@ -327,16 +327,16 @@ body .center a
 .start
 {
 	background-color: #0e529f;
-	border-radius: 20px;
-	font-size: 45px;
-	padding: 10px 10px;
+	border-radius: 800px;
+	font-size: 38px;
+	padding: 30px 30px;
 	text-align: center;
 	border: 6px solid white;
-	box-shadow: 0px 0px 50px 2px #5A5A5A;
+	/* box-shadow: 0px 0px 50px 2px #5A5A5A;
 	-webkit-box-shadow: 0px 0px 50px 2px #5A5A5A;
 	-moz-box-shadow: 0px 0px 50px 2px #5A5A5A;
-	-o-box-shadow: 0px 0px 50px 2px #5A5A5A;
-	margin-bottom: 50px;
+	-o-box-shadow: 0px 0px 50px 2px #5A5A5A; */
+	margin-bottom: 30px;
 }
 .start:active
 {
@@ -475,7 +475,7 @@ body .center a
 --------------------------------------------------------------------*/
 #questionTemplate
 {
-	background-color: #ffffff;
+	background-image: linear-gradient(to right, #0e529f,  #0e7b3e);
 }
 .centerQ
 {
@@ -498,8 +498,8 @@ body .center a
 	background-color: #ecf0f1;
 	padding: 20px;
 	margin: 20px;
-	border-radius: 25px;
-	border: 3px solid #0e529f;
+	border-radius: 30px;
+	border: 1px solid #0e529f;
 	cursor: pointer;
 
 	display: none;
@@ -555,25 +555,26 @@ body .center a
 	padding: 30px 25px;
 	margin-top: 20px;
 	margin-bottom: 25px;
-	border-radius: 20px;
+	border-radius: 30px;
 	border: 1px solid #0e529f;
-	box-shadow: 0px 10px 30px #5A5A5A;
+	/* box-shadow: 0px 10px 30px #5A5A5A;
 	-webkit-box-shadow: 0px 10px 30px #5A5A5A;
 	-moz-box-shadow: 0px 10px 30px #5A5A5A;
-	-o-box-shadow: 0px 10px 30px #5A5A5A;
+	-o-box-shadow: 0px 10px 30px #5A5A5A; */
 }
 .controls
 {
 	position: relative;
 	height: 80px;
 	font-weight: 600;
-	background-color: #0e529f;
-	border-radius: 20px;
+	background-color: #0e7b3e;
+	border-radius: 30px;
+	background-image: linear-gradient(to right, #0e7b3e , #0e529f);
 	/* box-shadow: 0px 5px 10px #5A5A5A;
 	-webkit-box-shadow: 0px 5px 10px #5A5A5A;
 	-moz-box-shadow: 0px 5px 10px #5A5A5A;
-	/* -o-box-shadow: 0px 5px 10px #5A5A5A; */
-	border: 6px solid white;
+	-o-box-shadow: 0px 5px 10px #5A5A5A; */
+	border: 1px solid white;
 	color: white;
 }
 .controls p
@@ -708,7 +709,7 @@ body .center a
 /*------------------Results Page Styling-------------------------*/
 #results
 {
-	background-color: #0e529f;
+	background-image: linear-gradient(to right, #0e7b3e , #0e529f);
 }
 /* .percentage
 {
@@ -738,7 +739,7 @@ body .center a
 .comment
 {
 	padding: 20px;
-	background-color: #0e7b3e;
+	background-image: linear-gradient(to right, #0e7b3e , #0e529f);
 	box-shadow: 0px -5px 40px #5A5A5A;
 	-webkit-box-shadow: 0px -5px 40px #5A5A5A;
 	-moz-box-shadow: 0px -5px 40px #5A5A5A;
