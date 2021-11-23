@@ -3,43 +3,43 @@ var data =
 	[
 		[
 			{
-				question: "Unequal consolidation on a CXR can be caused by all except:",
-				option1: "Pulmonary oedema",
-				option2: "Pneumonia",
-				option3: "Pulmonary haemorrhage",
-				option4: "Pulmonary infarction",
-				answer: 1
+				question: "The most useful tool for evaluation of the condition of a patient with an acute asthmatic attack and in assessing the response to therapy is",
+				option1: "Chest radiography",
+				option2: "Arterial blood gas measurement",
+				option3: "Measurement of pulsus paradoxes",
+				option4: "Measurement of peak expiratory flow or FEV1",
+				answer: 4
 			},
 			{
-				question: "Physiological consequences of obstructive sleep apnoea usually include each of the following EXCEPT",
-				option1: "Stimulation of erythropoiesis",
-				option2: "Pulmonary vasoconstriction",
-				option3: "Tachycardia followed by bradycardia",
-				option4: "Systemic vasoconstriction",
+				question: "Lung compliance is increased in:",
+				option1: "Pneumonia",
+				option2: "CCF",
+				option3: "Emphysema",
+				option4: "Obesity",
 				answer: 3
 			},
 			{
-				question: "In chronic obstructive pulmonary disease (COPD), the variable most closely associated with prognosis is",
-				option1: "Arterial carbon dioxide partial pressure (PaC02)",
-				option2: "Arterial oxygen partial pressure (Pa02)",
-				option3: "Forced expiratory volume in one second (FEV1)",
-				option4: "Forced vital capacity (FVC)",
-				answer: 1
+				question: "The development of a pleural effusion would be an unusual complication of",
+				option1: "Streptococcal pneumonia",
+				option2: "Staphylococcal pneumonia",
+				option3: "Mycoplasma pneumonia",
+				option4: "Pneumococcal pneumonia",
+				answer: 3
 			},
 			{
-				question: "The most useful clinical finding to exclude the presence of airflow limitation in a 60-year-old is",
-				option1: "History of never smoking",
-				option2: "Absence of hyperresonance to chest percussion",
-				option3: "Normal cardiac dullness to percussion",
-				option4: "Absence of pulsus paradoxus",
-				answer: 1
+				question: "Young asthmatic male in emergency department. Resp rate 26/min, pCO2 27, SaO2 92%, struggling, talking in sentences. Given nebulised salbutamol, and ipratropium, 200mg IV hydrocortisone. After 30 minutes - no improvement. Further management: (NEXT step)",
+				option1: "IV salbutamol",
+				option2: "IV aminophylline",
+				option3: "IV magnesium",
+				option4: "Intubate and ventilate",
+				answer: 3
 			},
 			{
-				question: "The lobar collapse which is most easily missed on chest X-ray, is",
-				option1: "Right upper lobe",
-				option2: "Left lower lobe",
-				option3: "Right lower lobe",
-				option4: "Left upper lobe",
+				question: "With regards to obstructive sleep apnoea (OSA), which of the following statements is INCORRECT?",
+				option1: "Hhypoxaemia is the main stimulus to arousal",
+				option2: "Main method of treating this syndrome is with Continuous Positive Airway Pressure (CPAP)",
+				option3: "This syndrome occurs in up to 5% of adults",
+				option4: "This syndrome rarely has an obstructive component",
 				answer: 4
 			}
 		]
